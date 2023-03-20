@@ -76,3 +76,17 @@ python3 test.py \
        --weight_file [weight-file]
 ```
 
+## Citation
+<!-- ```
+@inproceedings{NEURIPS2020_expandnets,
+               author = {Guo, Shuxuan and Alvarez, Jose M. and Salzmann, Mathieu},
+               booktitle = {Advances in Neural Information Processing Systems},
+               editor = {H. Larochelle and M. Ranzato and R. Hadsell and M. F. Balcan and H. Lin},
+               pages = {1298--1310},
+               publisher = {Curran Associates, Inc.},
+               title = {ExpandNets: Linear Over-parameterization to Train Compact Convolutional Networks},
+               url = {https://proceedings.neurips.cc/paper/2020/file/0e1ebad68af7f0ae4830b7ac92bc3c6f-Paper.pdf},
+               volume = {33},
+               year = {2020}
+}
+``` -->
