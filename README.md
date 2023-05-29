@@ -1,4 +1,4 @@
-This repository is the official implementation of [Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions](TODO), CVPR 2023.
+This repository is the official implementation of [Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Knowledge_Distillation_for_6D_Pose_Estimation_by_Aligning_Distributions_of_CVPR_2023_paper.pdf), CVPR 2023.
 
 # KD-6D-pose-aligning-distributions-of-local-predictions
 
@@ -77,16 +77,12 @@ python3 test.py \
 ```
 
 ## Citation
-<!-- ```
-@inproceedings{NEURIPS2020_expandnets,
-               author = {Guo, Shuxuan and Alvarez, Jose M. and Salzmann, Mathieu},
-               booktitle = {Advances in Neural Information Processing Systems},
-               editor = {H. Larochelle and M. Ranzato and R. Hadsell and M. F. Balcan and H. Lin},
-               pages = {1298--1310},
-               publisher = {Curran Associates, Inc.},
-               title = {ExpandNets: Linear Over-parameterization to Train Compact Convolutional Networks},
-               url = {https://proceedings.neurips.cc/paper/2020/file/0e1ebad68af7f0ae4830b7ac92bc3c6f-Paper.pdf},
-               volume = {33},
-               year = {2020}
+```
+@inproceedings{guo2023knowledge,
+  title={Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions},
+  author={Guo, Shuxuan and Hu, Yinlin and Alvarez, Jose M and Salzmann, Mathieu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={18633--18642},
+  year={2023}
 }
-``` -->
+```
